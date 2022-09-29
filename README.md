@@ -168,7 +168,7 @@ Ao final de todo o processo temos o modelo em produção em pleno funcionamento.
 <br>
 
 <div align="center">
-<img src="img/Video_project_final_rossmann.webm" width="250px">
+<img src="img/video-bot.webp" width="1000px">
 </div>
 </br>
 
