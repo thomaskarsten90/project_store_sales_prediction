@@ -135,15 +135,9 @@ Dentre os modelos testados, o XGBoost não teve a melhor performance, porém, a 
 
 Nesta etapa, conseguimos observar os primeiros resultados conforme as imagens abaixo:
 
-<div align="left">
+<div align="center">
 <img src="img/tabela de cenario.png" width="1000px">
 </div>
-</br>
-
-<div align="right">
-<img src="img/pior e melhor cenario.png" width="1000px">
-</div>
-</br>
 </br>
 
 # 9. Deploy do modelo em produção
